@@ -6,7 +6,7 @@ Its only dependency is `emojibase-data` from [Emojibase](https://emojibase.dev/)
 
 ## Installation
 
-`npm install --save fbnlsr/eleventy-plugin-emojify`
+`npm install --save eleventy-plugin-emojify`
 
 In your `.eleventy.js` file, add the plugin:
 
