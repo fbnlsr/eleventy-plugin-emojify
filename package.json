@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-plugin-emojify",
+  "version": "1.0.0",
+  "description": "An emoji filter for Eleventy based on Emojibase that converts emoji markup to unicode emojis.",
+  "main": "emojify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eleventy", "11ty", "plugin", "emoji", "emojify"],
+  "author": {
+    "name": "Fabien Lasserre",
+    "email": "fabien@primative.net",
+    "url": "https://www.primative.net"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbnlsr/eleventy-plugin-emojify"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "emojibase-data": "^15.3.0"
+  }
+}
