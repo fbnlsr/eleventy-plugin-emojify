@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-emojify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An emoji filter for Eleventy based on Emojibase that converts emoji markup to unicode emojis.",
   "main": "emojify.js",
   "scripts": {
